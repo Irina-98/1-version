@@ -1,0 +1,356 @@
+.my_tfl {
+  float: left;
+  padding-right: 6px;
+}
+
+.my_a_pm_for_vtf {
+  text-decoration: none;
+}
+
+.my_btn_fonts {
+  color: #fff!important;
+}
+
+.my_btn_fonts:hover {
+  color: #eee!important;
+}
+
+.my_page_title {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 130%;
+/* identical to box height, or 47px */
+
+
+color: #000000;
+}
+
+.my_page_container_simple {
+  background: #C4C4C4;
+  border-radius: 20px;
+  padding: 21px;
+}
+
+.my_page_container_simple_05 {
+  background: rgba(148, 148, 148, 0.3);
+  border-radius: 20px;
+  padding: 21px;
+}
+
+.my_page_container_simple_head {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.my_page_container_large {
+  background: rgba(148, 148, 148, 0.3);
+  border-radius: 20px;
+  padding: 21px;
+}
+
+.my_page_subtitle {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 130%;
+/* identical to box height, or 47px */
+
+
+color: #000000;
+}
+
+.my_page_sub_subtitle {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+
+
+color: #000000;
+}
+
+.my_page_alert {
+  border: 1px solid #666666;
+box-sizing: border-box;
+border-radius: 10px;
+}
+
+.my_page_alert_sign {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 130%;
+float: left;
+color: #000000;
+
+opacity: 0.5;
+padding-right: 10px;
+}
+
+.my_page_alert_text {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 130%;
+/* or 18px */
+
+
+color: #000000;
+
+opacity: 0.7;
+}
+
+.my_page_schedule_title {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 130%;
+/* or 21px */
+
+
+color: rgba(0, 0, 0, 0.6);
+
+
+}
+
+.my_page_schedule_date {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+opacity: 0.3;
+}
+
+.my_page_simple_text {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+
+color: #000000;
+}
+
+.my_page_event_tag {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #666666;
+}
+
+.my_page_event {
+  background: url("/images/event_empty.jpg");
+border-radius: 20px;
+}
+
+.my_page_event_title {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+min-height: 100px;
+}
+
+.my_page_event_content {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 130%;
+
+/* or 18px */
+min-height: 110px;
+
+color: #000000;
+
+opacity: 0.8;
+}
+
+.my_page_event_date {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+
+color: #000000;
+
+opacity: 0.8;
+}
+
+.my_page_step_tag {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+opacity: 0.7;
+}
+
+.my_page_step_title {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+.my_page_step_content {
+  font-family: 'Roboto';
+font-style: italic;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+padding-top: 20px;
+padding-bottom: 20px;
+color: #000000;
+min-height: 100px;
+opacity: 0.7;
+}
+
+.my_page_step_no_test {
+  font-family: 'Roboto';
+font-style: italic;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+
+
+color: #000000;
+
+opacity: 0.7;
+}
+
+.my_page_input_label {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 134%;
+/* or 21px */
+
+
+color: #666666;
+}
+
+.my_page_input_textfield {
+  border-radius: 0px;
+  margin-top: 10px!important;
+}
+
+.my_page_radio_group {
+  margin-top: -10px!important;
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 134%;
+/* or 21px */
+
+
+color: #666666;
+
+}
+
+.my_page_photo_desc {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 134%;
+max-width: 200px;
+/* or 19px */
+
+text-align: center;
+
+color: #000000;
+
+opacity: 0.6;
+}
+
+.my_page_sub3_title {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+
+color: #000000;
+}
+
+.my_page_input_small_description {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 134%;
+/* or 16px */
+
+
+color: #666666;
+
+opacity: 0.7;
+}
+
+.my_page_sub3_description {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 130%;
+/* or 18px */
+
+
+color: #000000;
+}
+
+.my_page_category_title {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+
+color: #000000;
+}
